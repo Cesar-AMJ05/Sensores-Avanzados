@@ -1,0 +1,11 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F103C8 -BIN -LHF -DL -SSA -O11111114 -fo8 -N"C:\Users\cesar\OneDrive - Instituto Politecnico Nacional\Documents\0_7mo\Sensores_A\Practica2_MPU6050\Practica2_MPU6050.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\cesar\OneDrive - Instituto Politecnico Nacional\Documents\0_7mo\Sensores_A\Practica2_MPU6050\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" "Practica2_MPU6050.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_101_102_103.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CType.emcl" "__Lib_CMath.emcl" "__Lib_Conversions.emcl" "__Lib_Sprintf.emcl" "__Lib_I2C_12.emcl" "__Lib_UART_123.emcl" "__Lib_STMPE610.emcl"	 
+diagnostics: 0	122	Compilation Started	Practica2_MPU6050.c
+diagnostics: 292	123	Compiled Successfully	Practica2_MPU6050.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 222   Dynamic RAM (bytes): 20253	Static RAM (bytes): 222   Dynamic RAM (bytes): 20253
+hint: 0	1144	Used ROM (bytes): 6582 (10%)  Free ROM (bytes): 58954 (90%)	Used ROM (bytes): 6582 (10%)  Free ROM (bytes): 58954 (90%)
+diagnostics: 0	125	Project Linked Successfully	Practica2_MPU6050.mcpar
+diagnostics: 0	128	Linked in 203 ms	 
+diagnostics: 0	129	Project 'Practica2_MPU6050.mcpar' completed: 485 ms	 
+diagnostics: 0	103	Finished successfully: 24 sep. 2023, 22:35:06	Practica2_MPU6050.mcpar
